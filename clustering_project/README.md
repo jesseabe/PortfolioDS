@@ -1,4 +1,4 @@
-#Customer Clustering - Marketing and Sales
+# Customer Clustering - Marketing and Sales
 
 **Goal**: The goal of this project is to clustering customers of a company by their actions using Machine Learning.
 
